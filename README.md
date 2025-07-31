@@ -1,9 +1,8 @@
 Put yout kleenscan API key in ~/.kleenscan
 
-Check against Microsoft Defender by default:
-```
-avscan malware.exe
+Check against Microsoft Defender by default with `avscan malware.exe`
 
+```
 usage: avscan [-h] [-avs ANTIVIRUSES] [-l] [-o OUTPUT] [filename]
 
 Scan a file with Kleenscan
