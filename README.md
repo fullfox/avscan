@@ -1,8 +1,9 @@
 Put yout kleenscan API key in ~/.kleenscan
 
-<img width="2014" height="881" alt="avscan _1753967524" src="https://github.com/user-attachments/assets/a959b0f2-e350-45c3-956b-767ffbae5d06" />
-
 Check against Microsoft Defender by default:
 ```
 avscan malware.exe
 ```
+
+<img width="2282" height="930" alt="image" src="https://github.com/user-attachments/assets/88db01c8-57db-43d1-97a4-5c7984abb85e" />
+
